@@ -14,7 +14,7 @@ I've been rating movies on IMDB for years. I exported this data (`ratings.csv`) 
 
 ### Conclusions
 
-[My movie rating decision tree](https://github.com/MateVaradi/MyMovieRatings/my_decision_tree.png)
+[!My movie rating decision tree](https://github.com/MateVaradi/MyMovieRatings/blob/main/my_decision_tree.png)
 
 
 
