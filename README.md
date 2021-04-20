@@ -1,5 +1,3 @@
-# MyMovieRatings
-
 # Creating a personalized movie score based on my historic rating patterns
 
 ## About the project
