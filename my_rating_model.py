@@ -1,20 +1,15 @@
 # Imports
-import wikipedia
 from rotten_tomatoes_scraper.rt_scraper import MovieScraper
 from imdb import IMDb
 import pandas as pd
 import numpy as np
 from requests import get
 from bs4 import BeautifulSoup
-from time import sleep
-from random import randint
 import re
 from sklearn.linear_model import LinearRegression
 from sklearn.tree import DecisionTreeClassifier
 from sklearn import tree
-from sklearn.externals.six import StringIO
 import matplotlib.pyplot as plt
-import pydot
 
 # Settings
 pd.options.mode.chained_assignment = None
